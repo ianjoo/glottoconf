@@ -21,7 +21,19 @@ The **First International Conference on Glottometry** (GlottoConf1) is a confere
 
 # Plenary speakers
 
- * [**Szeto** Pui Yiu](https://pyszeto.wixsite.com/home) (University of Hong Kong)
- * [Hedvig **Skirgård**](https://sites.google.com/site/hedvigskirgard) (Max Planck Institute for Evolutionary Anthropology)
+![](Szeto.jpg){width=20%}
+
+[**Szeto** Pui Yiu](https://pyszeto.wixsite.com/home) (University of Hong Kong)
+
+TBA
+
+![](Hedvig.jpg){width=20%}
+
+[Hedvig **Skirgård**](https://sites.google.com/site/hedvigskirgard) (Max Planck Institute for Evolutionary Anthropology)
+ 
+**Between Clusters and Continua: A Tour of Tools for Lect Comparison**
+ 
+When comparing languages, there are many different tools at our disposal and considerations to take into account. In this talk, I showcase some powerful methods for exploring language dissimilarity (neighbour-nets, cultural fixation scores, tests of phylogenetic signal and dimensionality reduction techniques) as well as highlight some important aspect such as the underlying assumptions of these tools, feature dependencies and feature selection.
+ 
 
 # Call for papers
