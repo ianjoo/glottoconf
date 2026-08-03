@@ -1,5 +1,5 @@
 ---
-title: "The First International Conference on Lectometry"
+title: "The First International Conference on Glottometry"
 site: distill::distill_website
 ---
 
@@ -17,7 +17,7 @@ opts_chunk$set(echo = FALSE)
 
 # About
 
-The **First International Conference on Lectometry** (LectoConf1) is a conference dedicated to the art of measuring distance (the quantifiable degree of dissimilarity) between lects (linguistic varieties). It will be held in hybrid mode in **Otaru, Japan** on **26--28 July 2027**.
+The **First International Conference on Glottometry** (GlottoConf1) is a conference dedicated to the art of measuring distance (the quantifiable degree of dissimilarity) between linguistic varieties. It will be held in hybrid mode in **Otaru, Japan** on **26--28 July 2027**.
 
 # Plenary speakers
 
