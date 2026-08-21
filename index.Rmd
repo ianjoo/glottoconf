@@ -1,5 +1,5 @@
 ---
-title: "The First International Conference on Glottometry"
+title: "The 1st International Conference on Glottometry"
 site: distill::distill_website
 ---
 
@@ -12,12 +12,11 @@ library(DT)
 library(hms)
 
 opts_chunk$set(echo = FALSE)
-
 ```
 
 # About
 
-The **First International Conference on Glottometry** (GlottoConf1) is a conference dedicated to the art of measuring distance (the quantifiable degree of dissimilarity) between linguistic varieties. It will be held in hybrid mode in **Otaru, Japan** on **26--28 July 2027**.
+The **1st International Conference on Glottometry** (GlottoConf1) is a conference dedicated to the art of measuring distance (the quantifiable degree of dissimilarity) between linguistic varieties. It will be held in hybrid mode in **Otaru, Japan** on **26--28 July 2027**.
 
 # Plenary speakers
 
@@ -35,5 +34,56 @@ TBA
  
 When comparing languages, there are many different tools at our disposal and considerations to take into account. In this talk, I showcase some powerful methods for exploring language dissimilarity (neighbour-nets, cultural fixation scores, tests of phylogenetic signal and dimensionality reduction techniques) as well as highlight some important aspect such as the underlying assumptions of these tools, feature dependencies and feature selection.
  
-
 # Call for papers
+
+We call for oral presentations of undergoing or recently completed studies on **measuring the distance between linguistic varieties**, which we name as **glottometry**.
+
+The distance can be at any linguistic level (between "languages" or "dialects") and of any domain, including:
+
+ * Acoustic distance
+ * Articulatory distance
+ * Phonological distance
+ * Lexical distance
+ * Semantic distance
+ * Morphological distance
+ * Syntactic distance
+ * Visual/graphic distance
+ * Perceived distance
+ * Geographical distance
+ * Intra-familial distance
+ * Inter-familial distance
+ * Cross-modal distance
+
+Please send a 2-page abstract (including everything) in the following format:
+
+* A4 paper
+* 2.5cm margin
+* 12pt Times New Roman
+
+Please send your anonymized abstract to [joo@res.otaru-uc.ac.jp](mailto:joo@res.otaru-uc.ac.jp). It will then be reviewed by two anonymous reviewers.
+
+**The deadline is 31 March 2027**. Decisions will be communicated to you on a rolling basis within two weeks after the submission (and not necessarily after the deadline). We thus encourage you to submit as soon as your abstract is ready so that you can plan your trip well in advance.
+
+# Format of the conference
+
+GlottoConf1 is a hybrid conference featuring both on-site and online presentations.
+
+The language of the conference is English. Live captions in English will be provided during the presentations.
+
+# Participation fee
+
+The participation fee is 5,000 Japanese yen for student presenters and 10,000 yen for non-student presenters. It is free for non-presenting auditors.
+
+The fee is waived for participants studying or working at a institution of a low income or lower middle income country (as defined by [World Bank](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html)).
+
+# Venue
+
+GlottoConf1 will be held at the [Otaru University of Commerce](https://english.otaru-uc.ac.jp), located in Otaru, Japan.
+
+# About Otaru
+
+Otaru is a small coastal city in Hokkaido, the northernmost province of Japan. It is a popular tourist destination constantly rated as one of the most attractive Japanese cities. 
+
+The [Otaru Ushio Festival](https://www.visit-hokkaido.jp/en/event/detail_11009.html) is held at the end of July every year, which the participants of GlottoConf1 may also be able to enjoy.
+
+The nearest airport is the New Chitose Airport (CTS), which has connections to several major Asian Pacific cities.
