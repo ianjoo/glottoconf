@@ -5,6 +5,8 @@ site: distill::distill_website
 
 ```{r setup, include=FALSE}
 library(knitr)
+library(tidyverse)
+library(leaflet)
 
 opts_chunk$set(echo = FALSE)
 ```
@@ -75,6 +77,25 @@ The fee is waived for participants studying or working at an institution in a lo
 # Venue
 
 GlottoConf1 will be held at the [Otaru University of Commerce](https://english.otaru-uc.ac.jp), located in Otaru, Japan.
+
+```{r}
+OUC <- tibble(
+  name  = "Otaru University of Commerce",
+  lat   = 43.1911,
+  lon   = 140.9791,
+  Color = "red",
+  popup = "<b>Otaru University of Commerce</b>"
+)
+
+leaflet(data = OUC) %>% 
+  addTiles() %>% 
+  addCircleMarkers(lng = ~lon, lat = ~lat,
+             color = ~Color,
+             fillColor = ~Color,
+             popup = ~popup) |> 
+  setView(lng = 140.9791, lat = 43.1911, zoom = 5)
+```
+
 
 # About Otaru
 
