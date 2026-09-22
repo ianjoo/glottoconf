@@ -17,13 +17,13 @@ The **1st International Conference on Glottometry** (GlottoConf1) is a conferenc
 
 # Plenary speakers
 
-![Portrait of Szeto Pui Yiu](Szeto.jpg){width=20%}
+![Portrait of Szeto Pui Yiu](Szeto.jpg){width=30%}
 
 [**Szeto** Pui Yiu](https://pyszeto.wixsite.com/home) (University of Hong Kong)
 
 TBA
 
-![Portrait of Hedvig Skirgård](Hedvig.jpg){width=20%}
+![Portrait of Hedvig Skirgård](Hedvig.jpg){width=30%}
 
 [Hedvig **Skirgård**](https://sites.google.com/site/hedvigskirgard) (Max Planck Institute for Evolutionary Anthropology)
  
@@ -99,7 +99,7 @@ leaflet(data = OUC) %>%
 
 # About Otaru
 
-![Otaru Canal](Canal.jpg){width=50%} ![Denuki Koji](Denukikoji.jpg){width=50%}
+![Otaru Canal](Canal.jpg){width=100%} ![Denuki Koji](Denukikoji.jpg){width=100%}
 
 Otaru is a small coastal city in Hokkaido, the northernmost prefecture of Japan. It is a popular tourist destination consistently rated as one of the most attractive Japanese cities. 
 
