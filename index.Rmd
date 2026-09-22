@@ -99,6 +99,8 @@ leaflet(data = OUC) %>%
 
 # About Otaru
 
+![Otaru Canal](Canal.jpg){width=50%} ![Denuki Koji](Denukikoji.jpg){width=50%}
+
 Otaru is a small coastal city in Hokkaido, the northernmost prefecture of Japan. It is a popular tourist destination consistently rated as one of the most attractive Japanese cities. 
 
 The [Otaru Ushio Festival](https://www.visit-hokkaido.jp/en/event/detail_11009.html) is held at the end of July every year, which the participants of GlottoConf1 may also be able to enjoy.
