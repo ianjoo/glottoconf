@@ -21,7 +21,9 @@ The **1st International Conference on Glottometry** (GlottoConf1) is a conferenc
 
 [**Szeto** Pui Yiu](https://pyszeto.wixsite.com/home) (University of Hong Kong)
 
-TBA
+**Measuring linguistic distance in contact settings: Methodological reflections on Sinitic and its neighbours**
+
+Quantifying the degree of dissimilarity between Sinitic and its neighbouring languages is not a one-size-fits-all endeavour; rather, it requires calibrating quantitative methods, language samples, and structural features to the specific research question at hand. Sandwiched between typologically distinct Altaic languages to the north and Mainland Southeast Asian languages to the south, Sinitic varieties offer an ideal laboratory for exploring how different glottometric designs illuminate distinct facets of language contact. This talk examines the interplay between research objectives and methodological choices across varying geographical and analytical scales. When evaluating macro-areal continua and large-scale directional diffusion, distance-based phylogenetic networks (such as NeighborNet) paired with broad cross-family sampling and cross-linguistically comparable binary features effectively capture overarching north–south clines. However, zoomed-in investigations of micro-areal convergence zones (*Sprachbünde*) require more targeted designs. While historicist scoring of directional diagnostic traits across strategic geographical baselines (e.g. comparing varieties inside and outside contact zones) can isolate bilateral convergence, unravelling complex, multi-layered intersection zones demands an inductive dialectometric approach. Combining neutral nominal distance metrics (*RDVjk*), multidimensional scaling, hierarchical clustering, and probabilistic feature extraction (nPMI) avoids aprioristic directional biases, uncovering subtle hybrid structures and multidirectional contact dynamics across genealogical boundaries.
 
 ![Portrait of Hedvig Skirgård](Hedvig.jpg){width=30%}
 
